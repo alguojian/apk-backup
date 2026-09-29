@@ -21,17 +21,18 @@
 
 <br />
 
-<img src="docs/screenshots/phone-selected.png" width="360" alt="APK 提取界面截图" />
+<p align="center">
+  <img src="docs/screenshots/phone-main.png" width="220" alt="应用列表" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone-selected.png" width="220" alt="多选状态" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/tv-remote.png" width="620" alt="电视遥控布局" />
+</p>
 
-*真实应用界面 · 支持多选 · 文件保存到 `Download/APK提取/`*
+*真实应用界面 · 支持多选 · 手机与电视 · 文件保存到 `Download/APK提取/`*
 
 </div>
-
-## 界面截图
-
-| 列表 | 多选 | 电视遥控 |
-| --- | --- | --- |
-| <img src="docs/screenshots/phone-main.png" width="260" alt="应用列表" /> | <img src="docs/screenshots/phone-selected.png" width="260" alt="多选状态" /> | <img src="docs/screenshots/tv-remote.png" width="360" alt="电视布局" /> |
 
 ---
 

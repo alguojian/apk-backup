@@ -21,17 +21,18 @@ One install for **phones** and **Android TV**.
 
 <br />
 
-<img src="docs/screenshots/phone-selected.png" width="360" alt="APK Backup screenshot" />
+<p align="center">
+  <img src="docs/screenshots/phone-main.png" width="220" alt="App list" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone-selected.png" width="220" alt="Multi-select" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/tv-remote.png" width="620" alt="TV remote layout" />
+</p>
 
-*Real app UI · Multi-select · Files saved to `Download/APK提取/`*
+*Real app UI · Multi-select · Phone & TV · Files saved to `Download/APK提取/`*
 
 </div>
-
-## Screenshots
-
-| List | Multi-select | TV remote |
-| --- | --- | --- |
-| <img src="docs/screenshots/phone-main.png" width="260" alt="App list" /> | <img src="docs/screenshots/phone-selected.png" width="260" alt="Multi-select" /> | <img src="docs/screenshots/tv-remote.png" width="360" alt="TV layout" /> |
 
 ---
 
