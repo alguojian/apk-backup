@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# 生产签名（务必本地保留，禁止提交）
+signing/
+keystore.properties
+*.jks
+*.keystore
+
+# 构建产物
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 截图临时文件
+docs/screenshots/_*.html
+docs/screenshots/_tmp*

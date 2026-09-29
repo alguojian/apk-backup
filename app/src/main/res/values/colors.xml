@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 浅色系 -->
+    <color name="bg">#F4F6F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_alt">#EDF1F6</color>
+    <color name="ink">#1B2430</color>
+    <color name="ink_dim">#6B7A8A</color>
+    <color name="accent">#2F7FE8</color>
+    <color name="accent_press">#1F6BCC</color>
+    <color name="accent_soft">#E8F1FC</color>
+    <color name="danger">#E25555</color>
+    <color name="focus_stroke">#2F7FE8</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="item_selected">#E7F1FD</color>
+    <color name="item_focused">#D9E9F9</color>
+</resources>

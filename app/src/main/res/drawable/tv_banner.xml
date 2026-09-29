@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 电视启动器横幅 320x180 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#1A222B"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillColor="#3D9CFF"
+        android:pathData="M0,0h320v6h-320z" />
+    <!-- 下载箭头 -->
+    <path
+        android:fillColor="#3D9CFF"
+        android:pathData="M160,36c-3.3,0 -6,2.7 -6,6v34.5l-15.9,-15.9c-2.3,-2.3 -6.1,-2.3 -8.5,0c-2.3,2.3 -2.3,6.1 0,8.5l26.2,26.2c2.3,2.3 6.1,2.3 8.5,0l26.2,-26.2c2.3,-2.3 2.3,-6.1 0,-8.5c-2.3,-2.3 -6.1,-2.3 -8.5,0L166,76.5V42c0,-3.3 -2.7,-6 -6,-6z" />
+    <path
+        android:fillColor="#3D9CFF"
+        android:pathData="M118,118h84c3.3,0 6,2.7 6,6s-2.7,6 -6,6h-84c-3.3,0 -6,-2.7 -6,-6s2.7,-6 6,-6z" />
+    <!-- 应用名色块（电视远距离可读） -->
+    <path
+        android:fillColor="#E8EEF4"
+        android:pathData="M112,148h96v8h-96z" />
+    <path
+        android:fillColor="#8B9AAB"
+        android:pathData="M128,162h64v6h-64z" />
+</vector>
