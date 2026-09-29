@@ -27,6 +27,12 @@
 
 </div>
 
+## 界面截图
+
+| 列表 | 多选 | 电视遥控 |
+| --- | --- | --- |
+| <img src="docs/screenshots/phone-main.png" width="260" alt="应用列表" /> | <img src="docs/screenshots/phone-selected.png" width="260" alt="多选状态" /> | <img src="docs/screenshots/tv-remote.png" width="360" alt="电视布局" /> |
+
 ---
 
 ## 为手机和电视而设计

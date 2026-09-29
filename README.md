@@ -27,6 +27,12 @@ One install for **phones** and **Android TV**.
 
 </div>
 
+## Screenshots
+
+| List | Multi-select | TV remote |
+| --- | --- | --- |
+| <img src="docs/screenshots/phone-main.png" width="260" alt="App list" /> | <img src="docs/screenshots/phone-selected.png" width="260" alt="Multi-select" /> | <img src="docs/screenshots/tv-remote.png" width="360" alt="TV layout" /> |
+
 ---
 
 ## Built for phone and TV
